@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "780100881116",
+    "firebase_url": "https://photo-c9650.firebaseio.com",
+    "project_id": "photo-c9650",
+    "storage_bucket": "photo-c9650.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780100881116:android:380d99adb3f480bcb44219",
+        "android_client_info": {
+          "package_name": "kr.ac.mjc.photo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780100881116-01ol3a7lskuiti5f7iim4seqoeokfoba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrOW01l-buB6gIns38YIugeQDn73xtFaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780100881116-01ol3a7lskuiti5f7iim4seqoeokfoba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
